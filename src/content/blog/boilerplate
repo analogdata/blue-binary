@@ -1,0 +1,48 @@
+---
+author: Sat Naing
+pubDatetime: 2022-09-23T04:58:53Z
+modDatetime: 2024-10-14T09:27:28.605Z
+title: How to configure AstroPaper theme
+slug: how-to-configure-astropaper-theme
+featured: true
+draft: false
+tags:
+  - configuration
+  - docs
+description: How you can make AstroPaper theme absolutely yours.
+---
+
+---
+title: How Do I Develop My Portfolio Website & Blog
+author: Sat Naing
+pubDatetime: 2022-03-25T16:55:12.000+00:00
+slug: how-do-i-develop-my-portfolio-and-blog
+featured: false
+draft: true
+tags:
+  - NextJS
+  - TailwindCSS
+  - HeadlessCMS
+  - Blog
+description:
+  "EXAMPLE POST: My experience about developing my first portfolio website and a blog
+  using NextJS and a headless CMS."
+---
+I Need to write a blog on creating a middleware for fastapi for logging to log file of all the request and response with the client ip and all other details to the log file.
+
+My Blog Post Should be in Markdown, The Format Should be as below.
+---
+title: { Title of the Blog }
+author: { Author Name }
+pubDatetime: 2022-03-25T16:55:12.000+00:00 {Todays Date and Time}
+slug: { Slug for the title }
+featured: true
+draft: false
+tags:
+  - Python
+  - FastAPI
+  - Rest
+  - { Suitable Tags }
+description: "{Proper Description}"
+---
+Complete Blog here.
