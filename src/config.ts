@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://linkedin.com/in/rajathkumarks/",
   desc: "Discovering Python's Potential in AI and Beyond, Where Cognition Meets Endless Possibilities.",
   title: "Python & Rest",
-  ogImage: "pyrestlogo.png",
+  ogImage: "pythonrest-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 5,
   postPerPage: 4,
