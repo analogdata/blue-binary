@@ -1,7 +1,7 @@
 ---
 title: Creating a Middleware in FastAPI for Logging Requests and Responses
 author: Rajath Kumar KS
-pubDatetime: 2024-12-04T12:00:00.000+00:00
+pubDatetime: 2024-12-05T12:00:00.000+00:00
 slug: fastapi-middleware-logging
 featured: true
 draft: false

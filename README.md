@@ -31,8 +31,8 @@ To run the blog locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/python-rest-blog.git
-   cd python-rest-blog
+   git clone https://github.com/your-username/blue-binary.git
+   cd blue-binary
    ```
 
 2. Install dependencies:

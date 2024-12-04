@@ -3,8 +3,8 @@ title: Dependency Injection in FastAPI
 author: Rajath Kumar KS
 pubDatetime: 2024-12-04T12:01:00.000+00:00
 slug: fastapi-dependency-injection
-featured: true
-draft: false
+featured: false
+draft: true
 tags:
   - Python
   - FastAPI

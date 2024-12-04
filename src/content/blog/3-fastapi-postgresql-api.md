@@ -3,8 +3,8 @@ title: Building a RESTful API with FastAPI and PostgreSQL
 author: Rajath Kumar K S
 pubDatetime: 2024-12-04T13:00:00.000+00:00
 slug: fastapi-postgresql-api
-featured: true
-draft: false
+featured: false
+draft: true
 tags:
   - Python
   - FastAPI
