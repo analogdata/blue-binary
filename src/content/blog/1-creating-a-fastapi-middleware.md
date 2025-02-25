@@ -17,6 +17,8 @@ description:
 
 **FastAPI** is a modern, high-performance web framework for Python. One of its powerful features is the ability to customize behavior using middlewares. In this blog, we will walk through creating a middleware to log every request and response, along with useful metadata like the client's IP address, HTTP method, endpoint, and status codes.
 
+
+![FastAPI Logo](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
 ---
 
 ## Why Use Middleware for Logging?
