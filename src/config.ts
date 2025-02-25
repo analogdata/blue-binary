@@ -7,7 +7,7 @@ export const SITE: Site = {
   desc: "Discovering Python's Potential in AI and Beyond, Where Cognition Meets Endless Possibilities.",
   title: "Python & Rest",
   ogImage: "pythonrest-og.jpg",
-  lightAndDarkMode: true,
+  lightAndDarkMode: false,
   postPerIndex: 5,
   postPerPage: 4,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes

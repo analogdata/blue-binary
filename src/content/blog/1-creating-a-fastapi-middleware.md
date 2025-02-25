@@ -1,7 +1,7 @@
 ---
 title: Creating a Middleware in FastAPI for Logging Requests and Responses
 author: Rajath Kumar K S
-pubDatetime: 2024-12-04T12:00:00.000+00:00
+pubDatetime: 2025-02-25T12:00:00.000+00:00
 slug: fastapi-middleware-logging
 featured: true
 draft: false
@@ -182,3 +182,7 @@ curl http://127.0.0.1:8000/items/42
 With this middleware, you can easily log all API requests and responses in your FastAPI application. This is incredibly useful for debugging, auditing, and monitoring the usage of your APIs. You can further customize the middleware to log headers, request bodies, or response payloads if needed.
 
 Logging is an essential part of any production-grade application, and FastAPI’s middleware support makes it easy to implement.
+
+### Follow Me on LinkedIn
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="rajathkumarks" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajathkumarks?trk=profile-badge">Rajath Kumar K S</a></div>
