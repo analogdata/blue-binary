@@ -49,11 +49,6 @@ async def read_root():
     return {"message": "Welcome to FastAPI!"}
 ```
 
-<div style="text-align: center;">
-  <h2>Subscribe to Python & Rest Newsletter</h2>
-  <iframe src="https://embeds.beehiiv.com/c2013d8e-e443-4682-af61-a1fd014a3b15" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-</div>
-
 ## Creating the Middleware
 
 Here's how to create a middleware for logging.
